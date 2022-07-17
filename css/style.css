@@ -123,8 +123,8 @@ body {
 .menu-item + .menu-item {
     padding-left: 50px;
 }
-.menu:focus,
-.menu:hover {
+.menu-link:focus,
+.menu-link:hover {
     color: var(--accent-color);
 }
 /* =========/HEADER========== */
